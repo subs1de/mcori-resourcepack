@@ -1,0 +1,78 @@
+{
+    "music_disc.5": {
+      "category": "record",
+      "sounds": [
+        "bgm1"
+      ],
+      "replace": true,
+      "subtitle": "bgm1"
+  },
+  "music_disc.cat": {
+      "category": "record",
+      "sounds": [
+        "bgm3"
+      ],
+      "replace": true,
+      "subtitle": "bgm3"
+  },
+  "entity.firework_rocket.blast": {
+      "sounds": [
+        {
+          "name": "fireworks/blast1",
+          "volume": 0.2
+        }
+      ],
+      "replace": true,
+      "subtitle": "blast"
+  },
+  "entity.firework_rocket.blast_far": {
+      "sounds": [
+        {
+          "name": "fireworks/blast_far1",
+          "volume": 0.2
+        }
+      ],
+      "replace": true,
+      "subtitle": "blast_far"
+  },
+  "entity.firework_rocket.large_blast": {
+      "sounds": [
+        {
+          "name": "fireworks/largeblast1",
+          "volume": 0.2
+        }
+      ],
+      "replace": true,
+      "subtitle": "large_blast"
+  },
+  "entity.firework_rocket.large_blast_far": {
+      "sounds": [
+        {
+          "name": "fireworks/largeblast_far1",
+          "volume": 0.2
+        }
+      ],
+      "replace": true,
+      "subtitle": "large_blast_far"
+  },
+  "entity.firework_rocket.twinkle": {
+      "sounds": [
+        {
+          "name": "fireworks/twinkle1",
+          "volume": 0.2
+        }
+      ],
+      "replace": true,
+      "subtitle": "twinkle"
+  },
+  "entity.firework_rocket.twinkle_far": {
+      "sounds": [
+        {
+          "name": "fireworks/twinkle_far1",
+          "volume": 0.2
+        }
+      ],
+      "replace": true,
+      "subtitle": "twinkle_far"
+  }
+}
